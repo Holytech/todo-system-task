@@ -15,9 +15,13 @@
 @theme {
   --color-shade-of-black-1: #1a1c1e;
   --color-shade-of-black-2: #464b50;
+  --color-shade-of-black-3: #6c7278;
   --color-light-grey: #f7f7f7;
+  --color-aqua-blue: #75c5c1;
+  --color-secondary-400: #6c7278;
 
   --color-stroke: #cdd6e9;
+  --color-stroke-1: #eef1f9;
 }
 
 @media (prefers-color-scheme: dark) {
